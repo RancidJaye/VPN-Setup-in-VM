@@ -22,27 +22,6 @@ This repository documents the process of setting up a **Virtual Private Network 
 
 <h2>Project Walkthrough:</h2>
 
-<p align="center">
-Deploying the Virtual Machine: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="VM Deployment"/>
-<br />
-<br />
-Installing & Configuring OpenVPN:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="VPN Setup"/>
-<br />
-<br />
-Firewall & Port Forwarding Settings: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Firewall Configuration"/>
-<br />
-<br />
-Connecting to VPN Securely:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="VPN Connection"/>
-<br />
-<br />
-Monitoring Encrypted Packets with Wireshark:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Wireshark Analysis"/>
-</p>
-
 <h2>Step-by-Step Deployment Guide</h2>
 
 <h3>1. Setting Up a Virtual Machine</h3>
